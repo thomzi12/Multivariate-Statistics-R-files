@@ -17,4 +17,7 @@ Bagplots (HW1)
 Biplots (HW2)		
 Minimum Spanning Trees (HW3)	
 3-D Scatterplots (HW3, HW4)		
-Dendrograms: Complete, Average, Singly-linked (HW4)
+Dendrograms: Complete, Average, Singly-linked (HW4)		
+Cluster Projections (HW4)	
+	
+... and more! 
